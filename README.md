@@ -1,2 +1,2 @@
 # update hello world
-# try branching from main
+# try branching from main branch
